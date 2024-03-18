@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BlancaEstela</string>
+    <string name="button_name">Button</string>
+    <string name="greetings">Hello World</string>
 </resources>
